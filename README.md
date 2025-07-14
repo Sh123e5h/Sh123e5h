@@ -42,17 +42,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
-</div>
-
----
 
 ## ✍️ Favorite Dev Quote
-
-> 💡 *“The only way to learn a new programming language is by writing programs in it.”* — **Dennis Ritchie**  
-> *Or even better: by building something people can use.*
+ 
+> 💡 *“Unix is simple. It just takes a genius to understand its simplicity.”* — **Dennis Ritchie**  
 
 <!-- Proudly crafted with ❤️ by Shireesh | Markdown powered by GPRM (https://gprm.itsvg.in) -->

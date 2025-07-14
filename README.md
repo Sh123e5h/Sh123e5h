@@ -55,10 +55,4 @@
 > 💡 *“The only way to learn a new programming language is by writing programs in it.”* — **Dennis Ritchie**  
 > *Or even better: by building something people can use.*
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sh123e5h&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</p>
-
 <!-- Proudly crafted with ❤️ by Shireesh | Markdown powered by GPRM (https://gprm.itsvg.in) -->

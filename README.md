@@ -29,9 +29,20 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sh123e5h&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sh123e5h&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&theme=nord&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh123e5h&theme=nord&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
+</div>
 
 ---
 

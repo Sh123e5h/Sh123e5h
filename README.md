@@ -36,15 +36,30 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&theme=nord&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Sh123e5h&theme=nord&hide_border=false" height="160"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Sh123e5h&theme=nord&hide_border=false" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&theme=nord&hide_border=false&layout=compact" height="160"/>
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=10&row=1&title=Stars,Commits,Followers,Repositories,PullRequest" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh123e5h&theme=nord&hide_border=true" />
+</div>
+
+---
 
 ## ✍️ Favorite Dev Quote
- 
-> 💡 *“Unix is simple. It just takes a genius to understand its simplicity.”* — **Dennis Ritchie**  
 
-<!-- Proudly crafted with ❤️ by Shireesh | Markdown powered by GPRM (https://gprm.itsvg.in) --> is there is any thing else which i can add in github stats
+> 💡 *“Unix is simple. It just takes a genius to understand its simplicity.”* — **Dennis Ritchie**
+
+<!-- Proudly crafted with ❤️ by Shireesh | Markdown powered by GPRM (https://gprm.itsvg.in) -->

@@ -37,8 +37,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&theme=nord&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh123e5h&theme=nord&hide_border=false" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShireeshKashyap&theme=nord&hide_border=false" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh123e5h&theme=nord" />
 </div>
 
 ---

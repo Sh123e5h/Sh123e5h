@@ -39,19 +39,24 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&show_icons=true&theme=nord&hide_border=false&count_private=true" height="160" />
+<!-- 🧾 Row 1: Stats + Streak -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&show_icons=true&theme=nord&hide_border=true&count_private=true" height="160"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh123e5h&theme=nord&hide_border=true" height="160"/>
+    </td>
+  </tr>
+</table>
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh123e5h&theme=nord&hide_border=false" height="160" />
+<!-- 🧠 Row 2: Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&layout=compact&theme=nord&hide_border=true&card_width=445" height="160" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&layout=compact&theme=nord&hide_border=false" height="160" />
-
-  <br><br>
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=10&title=Stars,Commits,Followers,Repositories,PullRequest" />
+<!-- 🏆 Row 3: Trophies -->
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=10&row=1&title=Stars,Commits,Followers,Repositories,PullRequest" />
 
 </div>
 

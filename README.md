@@ -40,14 +40,14 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&show_icons=true&theme=nord&hide_border=false&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&show_icons=true&theme=nord&hide_border=true&count_private=true" height="160" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh123e5h&theme=nord&hide_border=false" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh123e5h&theme=nord&hide_border=true" height="160" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&layout=compact&theme=nord&hide_border=false" height="160" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&layout=compact&theme=nord&hide_border=true" height="160" />
+
 </div>
 
 ---

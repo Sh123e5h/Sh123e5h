@@ -36,9 +36,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&theme=nord&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Sh123e5h&theme=nord&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&theme=nord&hide_border=false&layout=compact" height="160"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&show_icons=true&theme=github_dark&hide_border=false&count_private=true" height="160" alt="GitHub Stats" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh123e5h&theme=github-dark&hide_border=false" height="160" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&layout=compact&theme=github_dark&hide_border=false" height="160" alt="Top Languages" />
+
 </div>
 
 ---

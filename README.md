@@ -55,7 +55,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=onedark&no-frame=true&margin-w=15&row=1&title=Stars,Commits,Followers,Repositories,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=15&row=1&title=Stars,Commits,Followers,Repositories,PullRequest" />
 </div>
 
 ---

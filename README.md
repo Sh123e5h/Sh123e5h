@@ -63,7 +63,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=10&title=Stars,Commits,Repositories" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh123e5h&theme=nord&hide_border=true" />
 </div>
 
 ---

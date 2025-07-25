@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 GitHub Insights
 
 <div align="center">
 
@@ -48,14 +48,9 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&layout=compact&theme=nord&hide_border=false" height="160" />
 
-</div>
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=10&title=Stars,Commits,Followers,Repositories,PullRequest" />
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&title=Commits,Repositories,Followers" />
 </div>
 
 ---

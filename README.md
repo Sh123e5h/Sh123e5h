@@ -50,13 +50,12 @@
   
 </div>
 
-<br>
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/Sh123e5h">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=15&row=1&title=Stars,Commits,Followers,Repositories,PullRequest" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=github_dark&no-frame=true&margin-w=10&title=Commits,Repositories,Stars,Followers,PullRequest" />
 </div>
 
 ---

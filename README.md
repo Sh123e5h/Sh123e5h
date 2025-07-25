@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/shiresh.kashyap/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shireesh-kashyap-48885b343/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shireeshkashyap/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Sh123e5hK45hy49"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="mailto:forceplayz127@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
@@ -52,10 +52,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=10&title=Stars,Commits,Followers,Repositories,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&title=Commits,Repositories,Followers" />
 </div>
 
 ---

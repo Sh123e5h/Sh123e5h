@@ -51,10 +51,12 @@
 </div>
 
 <br>
+## 🏆 GitHub Trophies
 
-<!-- GitHub Trophies Centered -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=10&row=1&title=Stars,Commits,Followers,Repositories,PullRequest" />
+  <a href="https://github.com/Sh123e5h">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&margin-w=15&row=1&title=Stars,Commits,Followers,Repositories,PullRequest" />
+  </a>
 </div>
 
 ---

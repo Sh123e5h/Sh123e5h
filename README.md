@@ -11,7 +11,6 @@
 ---
 
 ## 🌐 Connect with Me
-
 <div align="center">
   <a href="https://www.instagram.com/shiresh.kashyap/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shireeshkashyap/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -22,7 +21,6 @@
 ---
 
 ## 💻 Tech Stack
-
 <div align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -36,40 +34,34 @@
 ---
 
 ## 🧠 GitHub Insights
-
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&show_icons=true&theme=nord&hide_border=true&count_private=true" height="160" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sh123e5h&show_icons=true&theme=nord&hide_border=true&count_private=true&v=1" height="160" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh123e5h&theme=nord&hide_border=true" height="160" />
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sh123e5h&theme=nord&hide_border=true&v=1" height="160" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&layout=compact&theme=nord&hide_border=true" height="160" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh123e5h&layout=compact&theme=nord&hide_border=true&v=1" height="160" />
 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&row=1&column=6&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sh123e5h&theme=nord&no-frame=true&row=1&column=6&margin-w=5&v=1" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh123e5h&theme=nord&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh123e5h&theme=nord&hide_border=true&v=1" />
 </div>
 
 ---
 
 ## ✍️ Favorite Dev Quote
-
 > 💡 *“Unix is simple. It just takes a genius to understand its simplicity.”* — **Dennis Ritchie**
-
-<!-- Proudly crafted with ❤️ by Shireesh | Markdown powered by GPRM (https://gprm.itsvg.in) -->

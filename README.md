@@ -6,7 +6,7 @@
 🧠 Currently exploring **kernel fundamentals**, **process scheduling**, and **compiler design** to go deeper into the core of computing.  
 🌱 **Open-source contributor** with a "learn-by-doing" mindset — my repos reflect a journey of structured growth and clean coding practices.  
 🎯 Practicing **competitive programming** and **DSA** regularly to sharpen problem-solving and optimize for performance.  
-📂 Repositories include: *system-level tools*, *memory-efficient code*, and *educational C/C++ projects* for learners and devs alike.
+📂 Repositories include: *system-level tools*, *memory-efficient code*, and *educational C/C++ projects* for learners and devs alikes.
 
 ---
 
